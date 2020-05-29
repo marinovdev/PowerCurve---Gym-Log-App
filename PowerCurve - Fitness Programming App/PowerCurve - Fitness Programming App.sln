@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerCurve - Fitness Logging App", "PowerCurve - Fitness Logging App\PowerCurve - Fitness Logging App.csproj", "{586FCCC9-5AA5-489D-99F0-F8856B229ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{AF09D629-25EF-4234-9979-C35689E0618A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{586FCCC9-5AA5-489D-99F0-F8856B229ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586FCCC9-5AA5-489D-99F0-F8856B229ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586FCCC9-5AA5-489D-99F0-F8856B229ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586FCCC9-5AA5-489D-99F0-F8856B229ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF09D629-25EF-4234-9979-C35689E0618A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF09D629-25EF-4234-9979-C35689E0618A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF09D629-25EF-4234-9979-C35689E0618A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF09D629-25EF-4234-9979-C35689E0618A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE21D70F-1CAD-4D1B-AF01-E79489510A74}
+	EndGlobalSection
+EndGlobal
